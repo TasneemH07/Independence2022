@@ -1,0 +1,65 @@
+*{
+    background-color:beige;
+    margin: 0;
+    padding: 0;
+}
+
+#heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#redFort{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+#left{
+float:left;
+margin-top: 25%;
+margin-left: 160px;
+font-size: larger;
+font-weight: bolder;
+}
+
+#Dent{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+#Right{
+float:right;
+margin-top: 7%;
+margin-right: 70px;
+font-size: larger;
+font-weight: bolder;
+}
+
+#para2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
